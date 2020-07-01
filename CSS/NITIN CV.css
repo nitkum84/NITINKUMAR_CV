@@ -1,0 +1,101 @@
+body{
+	background-color: white;
+	text-align: center;
+}
+.p2{
+	margin-left: 150px;
+}
+.main-container{
+	position: relative;
+}
+.top-img{
+	position: absolute;
+	left: 425px;
+}
+.main-heading1{
+	margin-top: 100px;
+	font-family: 'Rancho', cursive;
+}
+.main-heading2{
+	margin-left: 150px;
+	font-family: 'Rancho', cursive;
+}
+.heading1{
+	font-family: 'Rancho', cursive;	
+}
+.inforamtion{
+	position: relative;
+}
+.info-img{
+	/*position: absolute;*/
+	/*right: 300px;*/
+	float: right;
+	margin-right: 275px;
+}
+.hello{
+	/*position: absolute;*/
+	font-size: 1rem;
+	font-family: 'Pacifico', cursive;
+	/*left: 300px;*/
+	float: left;
+	margin-left: 250px;
+}
+.line-hieght{
+	line-height: 10;
+}
+.left-img{
+	/*position: absolute;*/
+	/*left: 300px;*/
+	float: left;
+	margin-left: 300px;
+}
+.left-p{
+	/*position: absolute;*/
+	/*left: 300px;*/
+	/*margin-right:125px;*/
+	float: left;
+	margin-left: 400px;
+}
+.right-img{
+	/*position: absolute;*/
+	/*right: 300px;*/
+	float: right;
+	margin-right: 300px;
+}
+.right-p{
+	position: absolute;
+	right: 300px;
+}
+.p-line-hieght{
+	line-height:3; 
+}
+p{
+	font-family: 'Pacifico', cursive;
+	/*margin-left: 150px;*/
+}
+h3{
+	font-family: 'Pacifico', cursive;
+	font-size: 20px;
+}
+hr{
+	margin-top: 100px;
+	color: #cff6cf;
+	border-style: dotted;
+	height: 1px;
+	border-width: 10px 0px 0px 0px;
+	width: 10%;
+}
+#cancel-hr{
+	width: 75%;
+	color:#f4f6ff;
+	border-width: 5px 0px 0px 0px;
+	border-style: solid;
+}
+.footer-header{
+	font-family: 'Bangers', cursive;
+}
+.footer{
+	background-color: #f4f6ff;
+	border-radius: 30px;
+	padding: 10px 20px 10px 20px;
+}

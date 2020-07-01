@@ -1,0 +1,31 @@
+
+body{
+	margin: 0px;
+}
+h1{
+	margin: 0px;
+}
+p{
+	margin: 0px;
+}
+.zero-container{
+	background-color: cyan;
+	border: solid 10px;
+	padding: 20px;
+	height: 200px;
+	width: 200px;
+}
+.first-container{
+	background-color: red;
+	margin-left: 260px;
+	border: solid 20px;
+	height: 200px;
+	width: 200px;
+}
+.second-container{
+	background-color: blue;
+	margin-left: 500px;
+	border: solid 10px;
+	height: 200px;
+	width: 200px;
+}
